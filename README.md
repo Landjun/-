@@ -1,2 +1,2 @@
-# PHP
+# Sometools
 it is great
